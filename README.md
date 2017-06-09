@@ -10,7 +10,7 @@ Each new object should represent a different type of greeting card, such as birt
 ## Challenges 
 + Make additional objects that allow more specific card types, such as children's birthday and adult's birthday,
 that inherit from a `Birthday` object.
-+ Output strings with classes to the DOM that you can style with CSS. 
++ Output the HTML strings with classes to the DOM that you can style with CSS. 
 + Refactor "makeFrontMessage" to return something more elaborate. 
 
 ```
